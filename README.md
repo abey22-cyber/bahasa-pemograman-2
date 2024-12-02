@@ -25,7 +25,7 @@ print("lambda d('hello Naufal'):", d("Naufal"))
 ````
 CODE PROGRAM :
 
-![image](https://github.com/user-attachments/assets/ac79ac26-02e0-455a-b6c6-4eb834a9964d)
+
 
 hasil program tersebut :
 
